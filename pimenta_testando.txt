@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 alterado
+=======
+testando o git
+
+que legal
+
+hmmm
+>>>>>>> 9f3b849a61e0fd8ca266be9bf092a230e104016d
